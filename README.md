@@ -46,18 +46,16 @@ My Quick Summaries:
 
 ### :fire: My Stats :
 
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=xloanx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="xloanx's Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=xloanx&theme=default&show_icons=true&hide_border=true&count_private=true" alt="xloanx's Stats" />
     </td>
     <td>
-      <a href="https://github.com/xloanx/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xloanx&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xloanx&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
