@@ -49,13 +49,14 @@ My Quick Summaries:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=xloanx&theme=default&show_icons=true&hide_border=true&count_private=true" alt="xloanx's Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=xloanx&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="xloanx's Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xloanx&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 
