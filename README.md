@@ -46,8 +46,10 @@ My Quick Summaries:
 
 ### :fire: My Stats :
 <div>
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xloanx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xloanx&layout=compact&theme=vision-friendly-dark)](https://github.com/xloanx/github-readme-stats)
+
 </div>
 
