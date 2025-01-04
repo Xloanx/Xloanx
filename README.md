@@ -48,10 +48,12 @@ My Quick Summaries:
 <div>
   
   ![xloanx's Stats](https://github-readme-stats.vercel.app/api?username=xloanx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xloanx&theme=dark&background=slate)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xloanx&layout=compact&theme=vision-friendly-dark)](https://github.com/xloanx/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xloanx&layout=compact&theme=vision-friendly-dark)](https://github.com/xloanx/github-readme-stats)
+  
+  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xloanx&theme=dark&background=slate)](https://git.io/streak-stats) -->
+
+
 
 </div>
 
