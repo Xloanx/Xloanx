@@ -1,5 +1,17 @@
 ## Hi there, I am Abiodun Muhammad-Ahmad Odukaye 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abiodun-odukaye-847100164">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 I am a Software/Machine Learning Engineer specialized in designing and developing enterprise-grade applications that drive operational efficiency and elevate productivity. My expertise lies in leveraging cutting-edge technologies such as the MERN Stack, Python, R and Machine Learning Tools and Technologies to craft intelligent solutions, solve complex challenges, and deliver exceptional user experiences. Beyond technical proficiency, I am dedicated to fostering innovation, mentoring emerging talent, and aligning technical strategies with overarching business goals to achieve impactful results.
 
 ### My Quick Summaries:
