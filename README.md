@@ -7,7 +7,7 @@ I am a Software/Machine Learning Engineer specialized in designing and developin
 - 🌱 I’m currently learning Deep Learning, Generative AI and LLM Solutions
 - 👯 I’m looking to collaborate on Software and Machine Learning Projects
 - 💬 Ask me about Frontend and Backend Engineering as well as Applied Machine Learning Solutions
-- 📫 How to reach me: My [Portofolio Page](ama-page.vercel.app) and emails to odukayeabiodun@gmail.com.
+- 📫 How to reach me: My [Portofolio Page](https://ama-page.vercel.app) and emails to odukayeabiodun@gmail.com.
 - 😄 Pronouns: He/Him
 <!--
 
