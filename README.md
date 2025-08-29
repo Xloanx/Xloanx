@@ -6,13 +6,13 @@
   </a>
 </div>
 
-I am a Software/Machine Learning Engineer specialized in designing and developing enterprise-grade applications that drive operational efficiency and elevate productivity. My expertise lies in leveraging cutting-edge technologies such as the MERN Stack, Python, R and Machine Learning Tools and Technologies to craft intelligent solutions, solve complex challenges, and deliver exceptional user experiences. Beyond technical proficiency, I am dedicated to fostering innovation, mentoring emerging talent, and aligning technical strategies with overarching business goals to achieve impactful results.
+I am a Full Stack Developer and AI Automation Engineer specialized in designing and developing enterprise-grade applications that drive operational efficiency and elevate productivity. My expertise lies in leveraging cutting-edge technologies such as the MERN Stack, Python, R and Machine Learning Tools and Technologies to craft intelligent solutions, solve complex challenges, and deliver exceptional user experiences. Beyond technical proficiency, I am dedicated to fostering innovation, mentoring emerging talent, and aligning technical strategies with overarching business goals to achieve impactful results.
 
 ### My Quick Summaries:
 - 🔭 I’m currently working on AI enabled Service Management Application
 - 🌱 I’m currently learning Deep Learning, Generative AI and LLM Solutions
 - 👯 I’m looking to collaborate on Software and Machine Learning Projects
-- 💬 Ask me about Frontend and Backend Engineering as well as Applied Machine Learning Solutions
+- 💬 Ask me about Frontend and Backend Engineering as well as AI Automation Solutions
 - 📫 How to reach me: My [Portofolio Page](https://ama-page.vercel.app) and emails to odukayeabiodun@gmail.com.
 - 😄 Pronouns: He/Him
 <!--
@@ -21,7 +21,7 @@ I am a Software/Machine Learning Engineer specialized in designing and developin
 **Xloanx/Xloanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My Quick Summaries:
-- 🔭 I’m currently working on AI enabled Service Management Application
+- 🔭 I’m currently working on various AI-enabled Service Management Applications
 - 🌱 I’m currently learning Deep Learning, Generative AI and LLM Solutions
 - 👯 I’m looking to collaborate on Software and Machine Learning Projects
 - 🤔 I’m looking for help with ...
